@@ -1,4 +1,4 @@
-NuteNet project explores different machine learning approaches to model maize leaf nutrient (N, P, K, etc) % and leaf gas exchange traits.
+NuteNet project explores different machine learning approaches to model maize leaf nutrient (N, P, K, etc) % and leaf gas exchange traits from hyperspectral leaf scans.
 
 Directories:
 - Data - contains tensors for CNN and tabular data for other ML.
