@@ -6,5 +6,5 @@ Directories:
 	- LeafScans1 - Merge and explore raw data
 	- LeafScans2 - Code training-testing loop for 5-fold cross-validation and apply with simple linear regression.
 	- LeafScans3 - Use Partial Least Squares, Random Forest, and Support Vector Machine regressions to predict targets.
-	- LeafScans4 - Code a convolutional nerual net to predict leaf N % from NDVI image of leaf.
+	- LeafScans4 - Code a convolutional neural net to predict leaf N % from NDVI image of leaf.
 
